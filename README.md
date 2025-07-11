@@ -52,9 +52,7 @@
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazril210&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-<p>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Fazril210&theme=tokyonight"/>
-</p>
+
 
 </div>
 
